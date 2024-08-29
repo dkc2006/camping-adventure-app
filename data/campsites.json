@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Mountain View Camp",
+        "image": "images/camp1.jpg",
+        "description": "Enjoy a beautiful view of the mountains."
+    },
+    {
+        "title": "Lakeside Retreat",
+        "image": "images/camp2.jpg",
+        "description": "Relax by the serene lakeside."
+    },
+    {
+        "title": "Forest Hideout",
+        "image": "images/camp3.jpg",
+        "description": "Experience the tranquility of the forest."
+    },
+    {
+        "title": "Desert Oasis",
+        "image": "images/camp4.jpg",
+        "description": "Discover the beauty of the desert."
+    },
+    {
+        "title": "Riverside Camp",
+        "image": "images/camp5.jpg",
+        "description": "Camp by the flowing river."
+    },
+    {
+        "title": "Beachside Escape",
+        "image": "images/camp6.jpg",
+        "description": "Enjoy the sun and sand by the beach."
+    },
+    {
+        "title": "Hilltop Camp",
+        "image": "images/camp7.jpg",
+        "description": "Stay on top of the hill and enjoy the view."
+    },
+    {
+        "title": "Valley Retreat",
+        "image": "images/camp8.jpg",
+        "description": "Relax in the peaceful valley."
+    },
+    {
+        "title": "Island Paradise",
+        "image": "images/camp9.jpg",
+        "description": "Escape to an island paradise."
+    }
+]
